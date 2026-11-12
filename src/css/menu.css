@@ -1,0 +1,2 @@
+@media (max-width:1024px){.menu{display:flex;flex-direction:column}}
+@media (max-width:480px){.menu{display:none}.menu.abierto{display:block}}
